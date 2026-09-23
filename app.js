@@ -243,4 +243,4 @@ function escapeHtml(s){return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":
 
 if("serviceWorker" in navigator) window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));
 
-if(state.lang && state.name){setShell(true);applyLang();route("home")}else if(state.lang){show("accountScreen")}else{show(null)}
+if(state.lang && state.name){setShell(true);applyLang();route("home")}else if(state.lang){show("accountScreen")}else{show("splash")}
