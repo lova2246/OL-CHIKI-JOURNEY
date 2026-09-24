@@ -1,20 +1,36 @@
-# OL CHIKI JOURNEY
+# OL CHIKI JOURNEY — FULL TEST FINAL
 
-Learn • Play • Explore
+This build is for one-time room/laptop testing of the complete navigation structure.
 
-Created by LOVA HANSDA
+Included:
+- Opening / language selection / welcome
+- Level 0 Introduction
+- Level 1 — 30 Core Ol Chiki letters
+- Level 2 — Ol Chiki Numbers
+- Level 3 — Letter → Word
+- Level 4 — Basic Santhali Vocabulary
+- Level 5 — Basic Sentences
+- Level 6 — Pronouns
+- Level 7 — Nouns
+- Level 8 — Verbs
+- Level 9 — Tense
+- Level 10 — Grammar
+- Level 11 — Ol Chiki Writing
+- Level 12 — Ol Chiki Reading
+- Level 13 — Daily Conversation
+- Level 14 — Listening + Speaking
+- Level 15 — Advanced Grammar
+- Level 16 — Advanced Reading + Writing
+- Level 17 — Full Ol Chiki Mastery
+- FINAL — Fluent Santhali
+- Mini Quiz screen for every level
+- Profile / certificate preview
+- Official logo and Pandit Raghunath Murmu supplied portrait
+- Same dark-green / gold / natural visual family
+- No audio
+- Test levels are open so the whole journey can be checked in one sitting
 
-## Current build
-- Level 0: short introduction + app introduction; Level 0 quiz is optional and can be skipped.
-- Level 1: 30 core Ol Chiki letters, direct one-by-one learning, sound/listening area, recognition, writing/doodle practice, review, compulsory quiz.
-- Level 2: Ol Chiki digits 0–9, number recognition, order and writing practice. Number names/audio remain pending pronunciation verification.
-- Levels 3–16 + FINAL: full planned curriculum structure is present. Specific Santhali vocabulary, grammar examples, dialogues, stories and audio must be verified before being treated as final learning content.
-- Quiz rule: Level 1 onward requires 100% correct answers before the next level unlocks. Level 0 may be skipped.
-- Writing rule: GOOD / ALMOST / TRY AGAIN; writing mistakes do not lock a level.
-- Certificate uses profile name and completion date.
-
-## Pronunciation safety
-The 30-letter order is based on the approved project structure and Unicode character order. Public references disagree on some learner-friendly romanizations/pronunciation details, so this build does not claim computer-generated speech is final native audio. The Level 1 Listen button is a temporary browser test playback only. Final audio should be replaced with approved real recordings.
-
-## Update audio later
-Place approved recordings in an audio folder and update only the audio asset references. No lesson logic needs to be rewritten when replacing an existing audio file if the filename/reference stays the same.
+IMPORTANT:
+This is a structural/full-navigation test build. It deliberately does not invent unverified Santali vocabulary, pronunciation, example sentences or audio. Those lesson contents must go through the project's
+NO GUESSING → VERIFY → CROSS-CHECK → APPROVE → APP
+process before being treated as final learning content.

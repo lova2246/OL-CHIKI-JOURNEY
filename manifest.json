@@ -1,11 +1,10 @@
 {
   "name": "OL CHIKI JOURNEY",
   "short_name": "OL CHIKI JOURNEY",
-  "start_url": "./index.html",
+  "start_url": "./",
   "display": "standalone",
-  "background_color": "#fbf6e8",
-  "theme_color": "#183b2a",
-  "description": "Learn • Play • Explore — Santhali Language App",
+  "background_color": "#031b13",
+  "theme_color": "#062b1f",
   "icons": [
     {
       "src": "image/icon-192.png",
